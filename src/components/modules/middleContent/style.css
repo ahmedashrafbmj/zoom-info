@@ -1,0 +1,25 @@
+.dashboard .card {
+    border: none;
+    padding: 15px;
+}
+
+.dashboard .card-header {
+    background-color: white;
+    border: none;
+}
+.dashboard .card-text {
+    font-size: 14px;
+}
+.middle-content .card-footer .profile {
+    justify-content: space-between;
+}
+
+.middle-content .card-footer {
+    background: white;
+}
+
+.middle-content p.user-bio {
+    font-size: 14px;
+    color: #0961fb;
+    font-weight: 500;
+}

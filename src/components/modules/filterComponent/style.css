@@ -1,0 +1,16 @@
+.filter-icon {
+    display: none;
+}
+
+.offcanvas .side-bar {
+    width: 100%;
+    padding: 0;
+    left: 0;
+}
+
+
+@media screen and (max-width:768px) {
+    .filter-icon {
+        display: block;
+    }
+  }

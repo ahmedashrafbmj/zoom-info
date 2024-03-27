@@ -1,0 +1,21 @@
+.profile {
+    display: flex;
+    gap: 20px;
+}
+.user-icon {
+    border: 1px solid #727272;
+    height: 33px;
+    padding: 2px 5px;
+    width: 33px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h4.user-name {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.prime-button:hover {
+    border: 1px solid #000;
+}
